@@ -1,4 +1,3 @@
-
 function myFunction(){
     alert("Thank you for entering your details!");
 }
