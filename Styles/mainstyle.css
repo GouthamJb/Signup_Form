@@ -20,7 +20,7 @@ body{
     margin-left: 200px;
     margin-right: 200px;
 }
-i{
+a{
     color: blue;
     text-decoration-line:underline ;
     text-decoration-color: #008b8b;
@@ -32,12 +32,16 @@ input{
 }
 
 #submit{
-    background-color: #024488;
+    background-color: rgb(28, 141, 179);
     color: white;
-    padding-left: 10px;
-    padding-right: 10px;
+    padding:5px 10px 5px 10px;
     font-family:"Josefin Sans";
+    border-radius: 8px;
+    font-size: 20px;
+    color: black;
     
 }
-
+select{
+    background-color: rgb(146, 144, 144);
+}
 
